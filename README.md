@@ -6,7 +6,7 @@ Corpus repository for Kurrek, J., Saleem, H. M., & Ruths, D. (2020, November). T
 
 ## Comment Annotation Metadata
 
-This corpus consists of 40,000 reddit comments. For each comment the following details are included.
+This corpus consists of 40,000 annotated Reddit comments. For each comment the following details are included.
 
 | FIELD        | INFO                                                                                                |
 |--------------|-----------------------------------------------------------------------------------------------------|
